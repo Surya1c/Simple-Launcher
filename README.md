@@ -1,1 +1,1 @@
-A simple yet Amazing Launcher!
+A Simple yet amazing launcher!
